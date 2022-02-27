@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament, wherein the county of Lincolne is added in the association of the six counties of Norfolke, Suffolke, Essex, Cambridge, Hartford, Huntington, for the mutuall defence each of other against the popish army in the north under the command of the Marquesse of Newcastle. Also, giving power to the Earle of Manchester to nominate governours over the parts of Holland and Marchland; and if any person harbour a souldier that is imprested to serve under him, he shall be fined; if he refuse to pay his fine, his goods shall be sequestred, and he imprisoned till the fine be satisfied. With the names of the committees appointed for the collection of money to pay the forces raised for the preservation of those seven counties. Die Mercurii 20. Septemb. 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance shall be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83324</idno>
+            <idno type="STC">Wing E2107</idno>
+            <idno type="STC">Thomason E67_32</idno>
+            <idno type="STC">ESTC R7847</idno>
+            <idno type="EEBO-CITATION">99873200</idno>
+            <idno type="PROQUEST">99873200</idno>
+            <idno type="VID">125662</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125662)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E67[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament, wherein the county of Lincolne is added in the association of the six counties of Norfolke, Suffolke, Essex, Cambridge, Hartford, Huntington, for the mutuall defence each of other against the popish army in the north under the command of the Marquesse of Newcastle. Also, giving power to the Earle of Manchester to nominate governours over the parts of Holland and Marchland; and if any person harbour a souldier that is imprested to serve under him, he shall be fined; if he refuse to pay his fine, his goods shall be sequestred, and he imprisoned till the fine be satisfied. With the names of the committees appointed for the collection of money to pay the forces raised for the preservation of those seven counties. Die Mercurii 20. Septemb. 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance shall be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 22. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manchester, Edward Montagu, --  Earl of, 1602-1671.</term>
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125662:1"/>
+            <pb facs="tcp:125662:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in Parliament, WHEREIN The County of <hi>Lincolne</hi> is added in the aſſociation of the ſix Counties of <hi>Norfolke, Suffolke, Eſſex, Cambridge, Hartford, Huntington,</hi> for the mutuall defence each of other againſt the Popiſh Army in the North under the command of the Marqueſſe of <hi>Newcaſtle.</hi>
+            </p>
+            <p>Alſo, giving power to the Earle of <hi>Mancheſter</hi> to nominate Governours over the parts of <hi>Holland</hi> and <hi>Marchland;</hi> and if any perſon harbour a ſouldier that is impreſted to ſerve under him, he ſhall be fined; if he refuſe to pay his fine, his goods ſhall be ſequeſtred, and he impriſoned till the fine be ſatisfied.</p>
+            <p>With the names of the Committees appointed for the collection of money to pay the Forces raiſed for the preſervation of thoſe ſeven Counties.</p>
+            <p>Die Mercurii 20. Septemb. 1643. <hi>ORdered by the Lords and Commons aſſembled in Parliament, that this Ordinance ſhall be forthwith printed and publiſhed.</hi>
+            </p>
+            <p>J. Brown Cler. Parliamentorum.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, Septemb. 22. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125662:2"/>
+            <pb n="1" facs="tcp:125662:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Mercurii,</hi> 20 Sept. 1643.</date>
+               </dateline>
+            </opener>
+            <head>AN ORDINANCE OF THE Lords and Commons Aſſembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in Parliament taking into their conſideration the danger to which the aſſociated Counties of <hi>Eſſex, Suffolke, Norfolk, Cambridge, Hartford,</hi> and <hi>Huntington</hi> are lyable, in caſe the inhabitants of <hi>Lyn,</hi> who have now declared themſelves againſt the Parliament, ſhould not be reduced to their obedience; or the popiſh Northerne Army, or any other Armies or Forces ſhould make a paſſage into any of the ſaid aſſociated Counties, have thought good to afford the inhabitants of the ſaid Counties all fit meanes for the timely ſuppreſſing the rebellion at <hi>Lyn,</hi> and the preventing and withſtanding all miſchievous de<g ref="char:EOLhyphen"/>ſignes which now are or hereafter ſhall be plotted againſt any of the ſaid Counties. And doe therefore the better to ſtrengthen them, Ordaine that the County of <hi>Lincolne,</hi> and the County of the City of <hi>Lincolne</hi> ſhall be added to the ſaid aſſociation. And further to enable them to maintaine and pay the Forces of Horſe and Foote, now raiſed or hereafter to be raiſed by them. That there ſhall be rated, taxed and leavied upon the ſeverall inhabi<g ref="char:EOLhyphen"/>tants
+<pb n="2" facs="tcp:125662:3"/>of the ſaid Counties: <hi>viz.</hi> Upon the County of <hi>Eſſex,</hi> one thouſand, one hundred, twenty and five pounds. Upon the County of <hi>Suffolke,</hi> one thouſand, two hundred, and fifty pounds. Upon the County of <hi>Norfolke,</hi> with the City of <hi>Norwich,</hi> one thouſand, two hundred, and fifty pounds. Upon the County of <hi>Cambridge,</hi> three hundred, threeſcore and fifteene pounds. Upon the Iſle of <hi>Ely,</hi> one hundred, forty, ſeven pounds, 10 ſhillings. Upon the County of <hi>Hartford,</hi> the ſum of foure hundred, and fifty pounds. Upon the County of <hi>Huntington,</hi> two hundred &amp; twenty pounds. And upon the County of <hi>Lincolne,</hi> and City of <hi>Lincolne,</hi> eight hundred and twelve pounds, ten ſhillings, weekely to be collected within the ſeverall limits and hundreds of the ſaid Counties and places. The firſt payment of the ſaid weekely ſummes ſo aſſeſſed by this Ordinance to be made at or before the third day of <hi>October,</hi> 1643. And the ſaid weekly payment to continue weekely, for three moneths next enſuing, from the ſaid third day of <hi>October.</hi> And for expediting the ſaid ſervice, in leavying, aſſeſſing, and collecting the ſaid weekely ſummes in the ſaid Counties: Be it Ordained, that the perſons hereafter named ſhall be Committees for the ſeverall and reſpective Coun<g ref="char:EOLhyphen"/>ties hereafter named. That is to ſay:</p>
+            <p>
+               <hi>For the County of</hi> Eſſex, <hi>Sir</hi> Thomas Barrington <hi>Knight and Baronet,</hi>
+               <note place="margin">Eſſex.</note> 
+               <hi>Sir</hi> Harbottle Grimſtone <hi>Knight and Baronet, Sir</hi> Wil<g ref="char:EOLhyphen"/>liam Hicks, <hi>Sir</hi> William Maſſam, <hi>Sir</hi> Richard Everard, <hi>Baro<g ref="char:EOLhyphen"/>nets; Sir</hi> Martin Lumly <hi>Knight and Baronet, Sir</hi> Thomas Cheeke, <hi>Sir</hi> Henry Mildmay <hi>of</hi> Wanſtead, <hi>Sir</hi> William Roe, <hi>Sir</hi> Henry Holcroft, <hi>Sir</hi> Thomas Honnywood, <hi>Sir</hi> William Mar<g ref="char:EOLhyphen"/>tin, <hi>Sir</hi> John Barrington, <hi>Knights;</hi> Harbottle Grimſton, John Sayer, William Maſſam, Timothy Middleton, Henry Mylde<g ref="char:EOLhyphen"/>may, William Umphrevill, Nathaniell Baycon, Oliver Ray<g ref="char:EOLhyphen"/>mond, Anthony Luther, Deane Tindell, John Wright, Robert Smith, Thomas Cooke, Carey Mildmay, Richard Harlackenden, Robert Wiſeman <hi>of</hi> Mayland, John Eldred, John Jocelyn, Robert Bouon, John Meed, John Eden, Thomas Clapton, Ar<g ref="char:EOLhyphen"/>thur Barnardiſton, Iſaac Allen <hi>of</hi> Haſely, William Goldingham, William Atwood, John Atwood, Peter Whitcome, John Brooke, Henry VViſeman, Robert Young, Francis Stonehard,
+<pb n="3" facs="tcp:125662:3"/>George Walton, Captaye Cletheroe, John Watkins, Edward Berkhead, George Thorowgood, <hi>Eſquires;</hi> Richard Wiſeman, John Langly <hi>of</hi> Colcheſter, Thomas Cooke, John Sorrill, Wil<g ref="char:EOLhyphen"/>liam Turner <hi>of</hi> Wimbich, Robert Veſey, Jeremy Aylet, William Collerd, Robert Crane, Doctor Read <hi>of</hi> Beau<g ref="char:EOLhyphen"/>changer, Robert Calthrop, Thomas Adams <hi>of</hi> Thackſtead, Richard Hankin <hi>of</hi> Harwich, John Alliſtone, VVilliam Har<g ref="char:EOLhyphen"/>lackenden, John Thorowgood <hi>of</hi> VVadden, Iſaac VVincoll, Samuel Playne, Francis VVilliamſon <hi>of</hi> VValden, Francis Ni<g ref="char:EOLhyphen"/>cholſon, John Fening, Robert Talcot <hi>of</hi> Culcheſter, Thomas Allyet, and Robert Maidſtone <hi>Gent.</hi>
+            </p>
+            <p>
+               <hi>For</hi> Colcheſter, <hi>the Mayor for the time being,</hi>
+               <note place="margin">Colcheſter.</note> Harbottle Grim<g ref="char:EOLhyphen"/>ſton <hi>Recorder,</hi> John Jocelinne <hi>Deputy-Recorder;</hi> Henry Barring<g ref="char:EOLhyphen"/>ton, John Langley, Robert Buckſtone, Ralph Harriſon, <hi>and</hi> Wil<g ref="char:EOLhyphen"/>liam Cooke, <hi>Aldermen.</hi>
+            </p>
+            <p>
+               <hi>For the County of</hi> Suffolke. <hi>Sir</hi> Edmond Bacon <hi>Baronet, Sir</hi> Nathaniel Barnerdiſtone <hi>Knight, Sir</hi> William Spring <hi>Baronet,</hi>
+               <note place="margin">Suffolke.</note> 
+               <hi>Sir</hi> William Parker, <hi>Sir</hi> Roger North. <hi>Sir</hi> Thomas Barnerdi<g ref="char:EOLhyphen"/>ſtone <hi>Knights,</hi> Bramton Gurden <hi>ſenior,</hi> Robert Reynalds, Willi<g ref="char:EOLhyphen"/>am Henemingham, Nathaniel Baycon <hi>of</hi> Freſton, Nicholas Ba<g ref="char:EOLhyphen"/>con, Henry North, Robert Brewſter, Francis Bacon, Theophi<g ref="char:EOLhyphen"/>lus Vaughan <hi>of</hi> Beckleſſe, William Cage, Edmund Harvy, John<g ref="char:punc">▪</g> Gu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>don <hi>Eſquire,</hi> John Bates <hi>Gentleman, Sir</hi> William Plater <hi>Knight and Baronet, Sir</hi> John Wentworth <hi>Knight, Sir</hi> Philip Parker <hi>Knight,</hi> Morrice Barrow, William Lawrence, James Hu<g ref="char:EOLhyphen"/>bard, Nicholas Bacon, William Bloyſe <hi>Eſquires,</hi> Francis Brew<g ref="char:EOLhyphen"/>ſter <hi>Gentleman, Sir</hi> Butts Bacon <hi>Baronet, Sir</hi> Robert Brooke, <hi>Sir</hi> Jo. Rowce, <hi>Sir</hi> William Soame <hi>Knights,</hi> Thomas Baker, Brampton Garden <hi>junior,</hi> Wiſeman Bockhenham, Iſaac Aple<g ref="char:EOLhyphen"/>ton, Henry North, Edward Read, Thomas Cole, Rich<g ref="char:EOLhyphen"/>ard Peapes, Nathaniel Bacon of <hi>Ipſwich,</hi> Gibſon Lucas, <hi>Eſ<g ref="char:EOLhyphen"/>quires.</hi>
+            </p>
+            <p>
+               <hi>For</hi> Ipſwich, <hi>the Bailiffes for the time being,</hi> Richard Purplet, <hi>and</hi> John Aldus.<note place="margin">Ipſwich.</note>
+            </p>
+            <p>
+               <hi>For Saint</hi> Edmonds Bury, <hi>the Aldermen</hi> of <hi>Saint</hi> Edmunds Bury <hi>for the time being,</hi> Thomas Chapleyne, Thomas Gibb,<note place="margin">S. Edmonds<g ref="char:punc">▪</g> Bury.</note> Sa<g ref="char:EOLhyphen"/>muel Moody, <hi>and</hi> Thomas Chapman.</p>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:125662:4"/>
+            <p>
+               <hi>The Bailiffes of the Towne</hi> of Alborough <hi>for the time being, and</hi> Thomas Jackſon.<note place="margin">Alborough.</note>
+            </p>
+            <p>
+               <hi>For the County of</hi> Norfolke, <hi>Sir</hi> Thomas Woodhouſe <hi>Knight and Baronet,</hi>
+               <note place="margin">Norfolke.</note> 
+               <hi>Sir</hi> John Holland <hi>Baronet, Sir</hi> John Pots <hi>Baronet, Sir</hi> John Hoberd <hi>Knight and Baronet, Sir</hi> Miles Hobert, <hi>Sir</hi> Tho<g ref="char:EOLhyphen"/>mas Hoggin, <hi>Knights;</hi> James Calthrop, John Cooke, John Sp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<g ref="char:EOLhyphen"/>man, Philip Beddingfeild Samuel Smith <hi>the Bailiffes of</hi> Ya<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>moth, Thomas Toll, <hi>and</hi> John Percevell <hi>of</hi> Lynne, Thomas Wyndeham, Francis Jeremy, Robert Wood, Gregory Gauſey, John Haughton, Thomas Weld, Martin Sidly, Thomas Sother<g ref="char:EOLhyphen"/>ton, <hi>Eſquires;</hi> William Henemingham, William Cooke, Ro<g ref="char:EOLhyphen"/>bert Rich, <hi>Eſquires; Sir</hi> Richard Berney, <hi>Sir</hi> Iſaac Aſhley, <hi>Sir</hi> John Palgrave <hi>Knights;</hi> Brigg Fountaine <hi>Eſquire; Sir</hi> Edward Barkham <hi>Baronet, Sir</hi> Thomas Gawdy, <hi>Sir</hi> Edward Aſhly, <hi>Sir</hi> Thomas Guibon, <hi>Knights;</hi> Thomas Ruſſell, John Walpoole, Robert Wilton, Robert Jeremy, John Guibon, Robert Shep<g ref="char:EOLhyphen"/>pard, John K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yves, Philip Caltrope, <hi>Eſquires;</hi> Toby Fry<g ref="char:EOLhyphen"/>er, Samuel Parkes, Thomas Johnſon, Robert Rower, <hi>Gent.</hi>
+            </p>
+            <p>
+               <hi>For the County and City of</hi> Norwich,<note place="margin">Norwich.</note> 
+               <hi>the Major for the time be<g ref="char:EOLhyphen"/>ing,</hi> Chriſtopher Barret, Thomas Baker, Iohn Tooly, Adrian Parmiter, Richard Harman, and Samuel Smith, <hi>Eſquires; Henry Watts</hi> Alderman.</p>
+            <p>
+               <hi>For the County of</hi> Cambridge,<note place="margin">Cambridge. ſhare.</note> 
+               <hi>Sir</hi> Dudly North, <hi>Sir</hi> Iohn Cutts, <hi>Sir</hi> Thomas Martin, <hi>Knights;</hi> Thomas Symmonds, Dudly Pope. <hi>Eſquires; Sir</hi> Myles Sands <hi>Knight.</hi> Francis Ruſſell, Oliver Cromwell, Thomas Duckett, William Father, James Thomp<g ref="char:EOLhyphen"/>ſon, Walter Clapton, Robert Caſtle, Thomas Bendiſh, Edward Clarke, Iohn Welbo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, Robert Clerke. Michael Dalton <hi>juni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> Thomas Parker Iohn Hobe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, George Clapthorne, Iohn Tow<g ref="char:EOLhyphen"/>ers, Henry Butler, Edward Leeds, William Marſh, <hi>and</hi> Humber<g ref="char:EOLhyphen"/>ſtone Marſh, <hi>Eſquires.</hi>
+            </p>
+            <p>
+               <hi>For the Towne and <g ref="char:V">Ʋ</g>niverſity of</hi> Cambridge,<note place="margin">Cambridge.</note> 
+               <hi>the Major for the time being,</hi> Talbot Peaps <hi>Recorder,</hi> Iohn Sherwood, Samuel S<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>den, Thomas French Robert Robſon.</p>
+            <p>
+               <hi>For the County of</hi> Hertford,<note place="margin">Hertford.</note> Charles <hi>Lord Viſcount</hi> Cranborne, Robert Cecill <hi>Eſquire, Sir</hi> Iohn Jerrat <hi>Baronet, Sir</hi> Thomas Da<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, <hi>Sir</hi> William Litton, <hi>Sir</hi> John Witterong, <hi>Knights;</hi> Serge<g ref="char:EOLhyphen"/>ant
+<pb n="5" facs="tcp:125662:4"/>Atkins, Richard Iennings, Edward Wingate, Iohn Tooke, Ralph Freeman, William Leman, William Preſley, Iohn Hay<g ref="char:EOLhyphen"/>den, Alexander Wylde, Gabriel Barber, Richard Porter, <hi>Cap<g ref="char:EOLhyphen"/>taine</hi> Scroggs, Ralph Freeman, Thomas Tooke, <hi>Eſquires; Sir</hi> Iohn Read <hi>Baronet, Doctor</hi> King <hi>Doctor of Phyſicke,</hi> Iohn Hum<g ref="char:EOLhyphen"/>berſtone <hi>Gentleman.</hi>
+            </p>
+            <p>
+               <hi>For Saint</hi> Albanes, <hi>the Major for the time being,</hi> Iohn Robo<g ref="char:EOLhyphen"/>tham,<note place="margin">S. Albanes.</note> Edward Wingate, Ralph Pemberton, R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chard Jennings, <hi>Eſquires.</hi>
+            </p>
+            <p>
+               <hi>For the County of</hi> Huntington, Thomas Cotton <hi>Baronet,</hi>
+               <note place="margin">Hunting<g ref="char:EOLhyphen"/>ton.</note> 
+               <hi>Sir</hi> Iohn Newett <hi>Knight,</hi> Onſlow Winch, Terrill Ioceline, Thomas Templer, Iohn Caſtle, Oliver Cromwell, Abraham Barwell, Edward Montague, <hi>and</hi> Iohn Bulkeley, <hi>Eſquires.</hi>
+            </p>
+            <p>
+               <hi>For the County of</hi> Lincolne, Francis <hi>Lord</hi> Willoughby <hi>of</hi> Parham, <hi>Sir</hi> Iohn Wray <hi>Knight and Baronet,</hi>
+               <note place="margin">Lincolne<g ref="char:EOLhyphen"/>ſhire.</note> 
+               <hi>Sir</hi> VVilliam Ar<g ref="char:EOLhyphen"/>myne, <hi>Sir</hi> Iohn Brownloe, <hi>and Sir</hi> William Brownloe, <hi>Sir</hi> Tho<g ref="char:EOLhyphen"/>mas Trallop, <hi>Baronets; Sir</hi> Edward Aſcough, <hi>Sir</hi> Hamond Whitchcoat, <hi>Sir</hi> Chiſtopher Wray, <hi>Sir</hi> Anthony I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>by, <hi>Knights;</hi> Thomas Grantham, Thomas Hatcher, John Broxholme, Mon<g ref="char:EOLhyphen"/>tague Cholmely, John Archer, VVilliam Ellis, <hi>Eſquires;</hi> Ed<g ref="char:EOLhyphen"/>ward Aſcough, Maurice Cave, Thomas Cornwallis, John Har<g ref="char:EOLhyphen"/>rington, Tho. Coppledike, Francis Fines, Henry Maſſingberde, John Diſney <hi>ſenior,</hi> Tho. Liſter, Mullenax Diſney, Edward King, Edward Rocetter, Thomas Savyle, Wil. Savyle, Humfry VVal<g ref="char:EOLhyphen"/>cott, <hi>Captaine</hi> John Harrington, Thomas I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>by, Samuel Leigh, VVilliam Bury, John VVillesby, <hi>Eſquires;</hi> Edmund Tilſon, Sa<g ref="char:EOLhyphen"/>muel Cuſt, Chriſtopher Hudſon, Drayner Maſſingberd, Richard Bryan, <hi>Maſter</hi> Maſſingden, <hi>Maſter</hi> VVoolley, <hi>Maſter</hi> VVilli<g ref="char:EOLhyphen"/>am Hobſon, <hi>Maſter</hi> Hall <hi>of</hi> Kettlethorpe, Alexander Emmer<g ref="char:EOLhyphen"/>ſon, Thomas VVelcome, <hi>Eſquires;</hi> VVilliam Luddington, Ed<g ref="char:EOLhyphen"/>ward Nelthorps, Edmond Anderſon, <hi>Maſter</hi> Bowtall, John Sheffeild, Robert Cawdron. <hi>Eſquires;</hi> Edward Skipwith, Charles Empſon, Thomas VVelby, <hi>the Major of</hi> Boſton <hi>for the time being,</hi> John VVincock, <hi>Maſter</hi> Thompſon, VVyat Par<g ref="char:EOLhyphen"/>kins, Martin Johnſon, John Browne, John Bernard, Nathaniel Tharrald, <hi>Gentlemen; Captaine</hi> Thomas Hall, <hi>and</hi> Nehemiah Rawſon, and <hi>Maſter</hi> Hall <hi>of</hi> Kettlethorpe.</p>
+            <pb n="6" facs="tcp:125662:5"/>
+            <p>
+               <hi>For the City of</hi> Lincolne, <hi>Maſher</hi> Marſhall <hi>the Major of</hi> Lin<g ref="char:EOLhyphen"/>colne <hi>that now is,</hi>
+               <note place="margin">Lincolne City.</note> Thomas Granth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, John Brockſhorne, <hi>Eſquires;</hi> Robert Moorecroft, VVilliam VVatſon, <hi>and</hi> Stephen Dawſon, <hi>Aldermen.</hi>
+            </p>
+            <p>VVhich ſaid ſeverall Committees of the ſaid ſeverall and re<g ref="char:EOLhyphen"/>ſpective Counties and places, or any two of them, according to the former Ordinances for weekely Aſſeſſements, ſhall nominate ſuch perſons as they ſhall thinke fit within their reſpective Di<g ref="char:EOLhyphen"/>viſions, who ſhall have power to Aſſeſſe all and every perſon and perſons chargeable by this Ordinance, according to the weekly rates and proportions in this Ordinance mentioned.</p>
+            <p>And the ſaid Committees, or any two of them, ſhall likewiſe have power within their ſeverall Limits and Diviſions, to nomi<g ref="char:EOLhyphen"/>nate Collectors, who ſhall collect the ſaid Money ſo Aſſeſſed, and pay the ſame to ſuch perſon or perſons as the Deputy-Lieu<g ref="char:EOLhyphen"/>tenants of the ſaid reſpective Counties, or any two of them ſhall appoint to be Treaſurers for the ſaid ſeverall Counties. And if any perſon or perſons, chargeable by this Ordinance, ſhall not upon demand pay the ſumme or ſummes on him or them aſſeſ<g ref="char:EOLhyphen"/>ſed, it ſhall be lawfull for the ſaid reſpective Collectors, or any one of them, to leavie the ſame by way of diſtreſſe and ſale of the goods of the perſon or perſons ſo aſſeſſed; and to call to their aſſiſtance any of the Trained Bands, or Companies of Voluntiers or other Forces, who are hereby required to be aiding and aſſiſting to the ſaid Collectors in the premiſſes, as they will anſwer the contrary thereof. And if any perſon which ſhall be aſſeſſed, as aforeſaid, towards the payment of the ſaid ſumme of money, ſhall refuſe or neglect to pay his rate or aſſeſſement to the Collector appointed within ſixe dayes after it ſhall bee de<g ref="char:EOLhyphen"/>manded, the ſaid Committees, or any two of them, ſhall charge the ſaid perſon ſo refuſing or neglecting with treble as much as the ſaid perſon ſhall be rated at: And if the ſaid perſons ſhall re<g ref="char:EOLhyphen"/>fuſe or neglect to pay the ſame ſo trebled upon him, that it ſhall be lawfull for the ſaid Committees, or any two of them, to com<g ref="char:EOLhyphen"/>mit the ſaid perſon ſo refuſing or neglecting to priſon; and alſo to ſequeſter his eſtate till the ſame be ſatisfied.</p>
+            <pb n="7" facs="tcp:125662:5"/>
+            <p>And be it Ordained, that every perſon ſhall be Ra<g ref="char:EOLhyphen"/>ted for the Eſtate he hath, in the ſeverall places, in each ſeverall County; And if Land be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et or let, to or neete the yeerely value thereof, ſuch perſon or perſons to whom the Rent thereof belongeth, to be ſolely chargeable therewith; But if the ſame be let under value, then the ſumme Taxed to be apportioned betweene the party to whom the Rent belongeth, and the Tenant, as the Taxer ſhall thinke meet; And if they, or any of them, ſhall doe any injurie in making their aſſeſſements, the ſame to be rectified by the ſaid Committees, or any two of them, within their ſeverall Diviſi<g ref="char:EOLhyphen"/>ons, according to their diſcretions; And if any Aſſeſſors or Collectors ſhall refuſe the ſaid ſervice, or prove negligent or faulty therein, the ſaid Committee or any two of them, ſhall have power to commit ſuch Aſſeſſors or Collectors to Priſon, or to ſet ſuch a fine upon him or them, as they ſhall thinke fit, not exceeding the ſum of 100 <hi>li.</hi> and the ſaid Fine to be Levyed by diſtreſſe and ſale of the Offenders goods. And it is Ordained, that the Treaſurers appoynted by the ſaid Committees, for the Reſpective Counties in manner aforeſaid, ſhall keepe a Regiſter Booke of the ſeverall ſums received and payd out by them, that ſo they may give a juſt and perfect account thereof unto the Committees of the ſaid ſeverall Counties, when thereunto they ſhall be by them required; And for the better incouragement of the ſaid Collectors and Treaſurers, It is Ordained that 2 <abbr>
+                  <hi>d.</hi>
+               </abbr> in the pound ſhall be allowed to the ſaid Collectors for every ſum of Money collected &amp; payd, by them to the ſaid Treaſurers, &amp; 2 <abbr>
+                  <hi>d.</hi>
+               </abbr> in the pound to the ſaid Treaſurers for every ſum of Mony received and disburſed by them according to this Ordinance; And that the Treaſurers of the ſaid Counties ſhall iſſue out no ſum or ſums of Money to any perſon or perſons without Order, under the hands of the Deputy Lieutenants, of the ſaid reſpe<g ref="char:EOLhyphen"/>ctive Counties, or any two of them at leaſt.</p>
+            <p>And it is further Ordained, that the Deputy Lieutenants of the ſaid ſeverall and reſpective Counties, ſhall hereby have power and authority to advance Monyes by way of Loan for this Service or other, neceſſary charges, tending to the ſafety and
+<pb n="8" facs="tcp:125662:6"/>preſervation of the ſaid Counties; And for the ſecurity of ſuch perſons as ſhall lend any Monyes for the uſes aforeſaid, to give them Warrants under their hands or the hands of three of them at leaſt, to receive the ſame againe of ſuch Treaſurer or Treaſurers, to whom ſuch Warrant or Warrants ſhall be di<g ref="char:EOLhyphen"/>rected, who ſhall upon the ſight of the ſaid Warrant, and a Copy thereof left with them, detaine ſo much of the Monyes which he or they ſhall receive as aforeſaid to diſcharge the ſaid Warrants; And if the ſaid Treaſurers or any of them to whom ſuch Warrants ſhall be directed, ſhall not after ſight of ſuch Warrants and a Copy thereof left with them as aforeſaid, ſtop and detaint ſo much of the next Moneyes which he ſhall ſo re<g ref="char:EOLhyphen"/>ceive to ſatisfie the perſon or perſons, the Money ſo lent as afore<g ref="char:EOLhyphen"/>ſaid upon proofe thereof made, the ſaid Deputy Lieutenants or any two of them, ſhall for his or their neglect or default make out their Warrants to the high Conſtables of the hundreds where ſuch Treaſurer or Treaſurers ſhall dwell or inhabite, or to what other perſon or perſons they ſhall thinke fit to Levie ſo much Money, as the Warrant or Warrants were made for, upon the goods of the ſaid Treaſurer or Treaſurers by way of diſtreſſe and ſale of their goods, to the uſe of the perſon or perſons ſo lending as aforeſaid: And it is alſo Ordained, That whatſoever ſums of Money are or ſhall be ſet or impoſed by vertue of this Ordinance upon any Land-lords, for &amp; in reſpect of any Lands, Tenements, or Hereditaments, held of them by any Tenants, the ſame ſum of Money ſhall be payd by their ſeverall reſpective Tenants, which ſaid ſums of Money ſo to be payd by the ſaid Tenants, for their Land-lords, they ſhall deduct and defalke out of the next Rents payable by them to their Land-lords, and for ſo doing, the ſaid Tenants, their Heires, Excecutors, Admini<g ref="char:EOLhyphen"/>ſtrators, and Aſſignes, ſhall be accquitted and ſaved harmeleſſe, againſt the ſaid Land-lords, their Heires, Excecutors, Admini<g ref="char:EOLhyphen"/>ſtrators, and Aſſignes, and Grant, Covenant, Condition, Write<g ref="char:EOLhyphen"/>ing Obligatory, or other matter whatſoever made to the con<g ref="char:EOLhyphen"/>trary notwithſtanding: And it is Ordained, That the Countie of <hi>Lincolne,</hi> and the County and City of <hi>Lincolne,</hi> ſhall have the advantage and benefit of the Ordinance for the Rating of ſuch as have not contributed upon the Propoſitions, or not in propor<g ref="char:EOLhyphen"/>tion
+<pb n="9" facs="tcp:125662:6"/>according to their Eſtates, to be rayſed in the ſame manner by the Committees named in this Ordinance for that County, and to the ſame uſes, for the maintaining their Aſſociated For<g ref="char:EOLhyphen"/>ces, as the Lords and Commons have already by another Ordinance confirmed and ſetled the ſame upon the reſt of the ſaid Aſſociated Counties; And it is Ordained, That the Deputy Lieutenants and Committees of the ſaid Counties, or any five or more of them, three whereof to be Deputy Lieute<g ref="char:EOLhyphen"/>nants, ſhall be a ſtanding and conſtant Committee in their ſe<g ref="char:EOLhyphen"/>verall and reſpective Counties, who ſhall have power to take the accompts of all Treaſurers of Money, or keepers of Stores, or Ammunition, belonging to their ſeverall and reſpective Counties, and to order all other the Affaires of their ſeverall Counties, according to the Ordinances of Parliament now made, or which hereafter ſhall be made; And for the better effecting of the premiſes, The ſaid Deputy Lieutenants and Committees, or any five of them as aforeſaid, ſhall be reſi<g ref="char:EOLhyphen"/>dent in ſome convenient place within their ſaid reſpective Counties, and ſhall have power to adjourn themſelves from time to time and from place to place within their ſeverall Counties as they ſhall thinke fit, And after they or more of them ſhall have ſet foureteen dayes, Then the Minor halfe of the ſaid Com<g ref="char:EOLhyphen"/>mittee to be free, and they to ſend for ſo many others in their ſtead, and the Major halfe there ſtill to remaine other foureteen dayes, and then they alſo are free, and then they alſo to ſend for three others, and ſo to change the Committee ſucceſſively during theſe Troubles, or till further order be taken, giving notice from time to time to them which are to ſucceed ſix dayes before they are to make their appearance at their appoyn<g ref="char:EOLhyphen"/>ted place; And the Deputy Lieutenants and Committees of the ſaid ſeverall and reſpective Counties, are hereby required, to appoynt a meeting at ſome convenient place within their ſeve<g ref="char:EOLhyphen"/>rall and reſpective Counties ſo ſoone as coveniently they may, and they then preſent are to agree amongſt themſelves of the firſt five who are to begin this Service: And whereas Colonell <hi>Cromwell</hi> hath ten Troopes of Horſe already Armed, which were heretofore rayſed in the ſaid Aſſociated Counties, It is Ordained that all the now Aſſociated Counties ſhall diſcharge
+<pb n="10" facs="tcp:125662:7"/>their pay till this time, and ſo long as the ſaid Troopes ſhall be thought fit to be continued together as one intyre Regiment, they ſhall be payd equally by all the ſaid Counties: And for as much as the preſervation of the Iſle of <hi>Ely, Holland,</hi> and <hi>Marſhland,</hi> in reſpect of the Avynewes and paſſages leading to them, doth mutually depend each of them upon the other, and that Colonell <hi>Cromwell</hi> is already appoynted Governour of the Iſle of <hi>Ely,</hi> but no ſpeciall Proviſion is yet made for the parts of <hi>Holland</hi> and <hi>Marſhland,</hi> the ſame is hereby recommen<g ref="char:EOLhyphen"/>ded to the Earle of <hi>Mancheſter,</hi> who by vertue of this Ordi<g ref="char:EOLhyphen"/>nance is authorized to place ſuch Governour or Governours in <hi>Holland</hi> or <hi>Marſhland</hi> aforeſaid (with the approbation of the Lord Generall) with ſuch directions for the mutuall preſerva<g ref="char:EOLhyphen"/>tion of them and the Iſle of <hi>Ely,</hi> as in his judgement he ſhall con<g ref="char:EOLhyphen"/>ceive to be moſt effectuall for their joynt preſervation.</p>
+            <p>And laſtly it is Ordained, That if any perſon or perſons inha<g ref="char:EOLhyphen"/>bitng within the ſaid Aſſociated Counties, ſhal receive, harbour, and conceale, any that have bin or ſhal hereafter be Impreſted by vertue of any Ordinance of Parliament, to be commanded by the Earl of <hi>Mancheſter,</hi> Major Generall of the ſaid Aſſociated For<g ref="char:EOLhyphen"/>ces, who ſhall withdraw themſelves from the Service they now are, or ſhall be by him the ſaid Earlingaged in, for the Service of the Parliament, without licence from the Captaine which hee or they ſhall ſerve under; It ſhall be lawfull for the Deputie Lieutenants of the ſeveral and reſpective Counties, or any two of them, to commit ſuch perſons as ſhall ſo withdraw themſelves; As alſo all ſuch as ſhall knowingly harbour and conceale the per<g ref="char:EOLhyphen"/>ſons ſo withdrawing themſelves, or to Fine any of them as they ſhall thinke fit, not exceeding the ſum of 10 <hi>li.</hi> And if the per<g ref="char:EOLhyphen"/>ſons ſo withdrawing, or the perſons ſo concealing, ſhall refuſe upon demand, to pay the ſaid Fine ſo impoſed upon him or them as aforeſaid, that then it ſhall be lawfull for the ſaid ſever<g ref="char:EOLhyphen"/>all and reſpective Deputy Lieutenants or any two of them, to Sequeſter the Eſtates of the ſaid offenders, and Impriſon their perſons, untill the ſaid Fines be ſatisfied and payd.</p>
+            <closer>
+               <dateline>
+                  <date>Septemb, 21. 1643.</date>
+               </dateline>
+               <signed>
+                  <hi>Hen. Elſinge Cl. P. D. Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
